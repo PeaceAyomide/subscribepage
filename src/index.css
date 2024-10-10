@@ -2,8 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: 'Blacksword';
+  src: url('/src/font/Blacksword.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-blacksword {
+  font-family: 'Blacksword', sans-serif;
+}
+
 body {
   background-color: #000;
   color: #fff;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Poppins', sans-serif;
 }
+
