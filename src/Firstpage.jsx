@@ -1,5 +1,5 @@
 import React from 'react'
-import invite2 from './invite2.mp4'
+import invite2 from './invite.mp4'
 
 const Firstpage = () => {
   return (
@@ -21,7 +21,7 @@ const Firstpage = () => {
         </div>
         <div className='flex justify-center items-start flex-row side-phone:flex-col mt-[2rem] space-x-8 side-phone:space-x-0 side-phone:space-y-8 px-[16rem] IPad:px-[7rem] side-phone:px-[4rem] phone:px-[2rem]'>
             <div className='one flex-1 p-[3rem] side-phone:p-[1rem] self-start side-phone:text-center side-phone:w-full'>
-            <p className='text-[2rem]  flex flex-wrap text-[#F6B25F] IPad:text-[1.2rem] side-phone:text-[1rem] phone:text-[0.8rem] side-phone:justify-center font-calibril'><span className='font-blacksword '>Launch</span> of GETMEDCO's VIP Concierge Clinic</p>
+            <p className='text-[2rem]  flex flex-wrap text-[#F6B25F] IPad:text-[1.2rem] side-phone:text-[1rem] phone:text-[0.8rem] side-phone:justify-center font-calibril'><span className='font-blacksword mr-[0.4rem]'>Launch</span> of GETMEDCO's VIP Concierge Clinic</p>
         
         <p className='text-[1.3rem] mt-2 IPad:text-[1rem] side-phone:text-[0.8rem] phone:text-[0.6rem] font-calibril'>
         You are cordially invited to the exclusive launch of GETMEDCO's state-of-the-art Concierge Clinic, where VIP-level healthcare meets cutting-edge innovation.
