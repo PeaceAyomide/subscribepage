@@ -9,8 +9,19 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'Calibri Light';
+  src: url('/src/font/CalibriLight.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .font-blacksword {
   font-family: 'Blacksword', sans-serif;
+}
+
+.font-calibril {
+  font-family: 'Calibri Light', sans-serif;
 }
 
 body {
